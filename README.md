@@ -61,5 +61,25 @@ See [full report](./reports/mixbytes/Weiroll_Security_Audit_Report.pdf) for more
 
 See [full report](./reports/abdk/ABDK_Weiroll_Weiroll_v_1_0.pdf) for more details. In collaboration with [DELV(formerly Element.fi)](https://twitter.com/delv_tech).
 
+## 07-2024 ABDK Audit: Enso Router & Stargate Receiver
+
+- Total Issues: 28 (13 Fixed, 15 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 0
+- Moderate Issues: 6 (4 Fixed, 2 Acknowledged)
+- Minor Issues: 22  (9 Fixed, 13 Acknowledged)
+
+See [full report](./reports/abdk/ABDK_Enso_EnsoRouter_v_1_0.pdf) for more details.
+
+## 07-2024 ABDK Audit: Enso Token
+
+- Total Issues: 4 (3 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 0
+- Moderate Issues: 1 (1 Fixed)
+- Minor Issues: 3  (2 Fixed, 1 Acknowledged)
+
+See [full report](./reports/abdk/ABDK_Enso_EnsoToken_v_1_0.pdf) for more details.
+
 # Disclaimer
 Enso is a fully non-custodial platform, and high security principles have been taken during development.  Audits are not a guarantee that a protocol is safe, use at your own risk.
