@@ -12,6 +12,26 @@
 
 With all of the addresses being the same on all chains.
 
+## 08-2025 MixBytes Audit: LayerZero Receiver
+
+- Total Issies: 6 (6 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
+- Moderate Issues: 1 (1 Fixed)
+- Minor Issues: 5 (5 Fixed)
+
+See [full report](./reports/mixbytes/Enso_LayerZero_Receiver_Security_Audit_Report.pdf) for more details.
+
+## 08-2025 MixBytes Audit: ERC-4337 Integration
+
+- Total Issues: 2 (2 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
+- Moderate Issues: 0
+- Minor Issues: 2 (2 Fixed)
+
+See [full report](./reports/mixbytes/Enso_ERC_4337_Integration_Security_Audit_Report.pdf) for more details.
+
 ## 07-2025 ABDK Audit: Enso Token
 
 - Total Issues: 4 (3 Fixed, 1 Acknowledged)
