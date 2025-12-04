@@ -1,16 +1,28 @@
 # Enso Protocol Audits
 [Enso](https://www.enso.finance/) is deployed on:  
 - Ethereum  
-- Polygon  
-- Arbitrum  
 - Optimism  
+- BNB Chain
 - Gnosis Chain  
-- Binance Smart Chain  
-- Avalanche  
-- Fantom  
-- Aurora  
+- Unichain  
+- Polygon
+- Sonic
+- ZkSync
+- World
+- HyperEVM
+- Soneium
+- Base
+- Arbitrum
+- Avalanche
+- Ink
+- Linea
+- Berachain
+- Plume
+- Katana
+- Plasma
+- Monad
 
-With all of the addresses being the same on all chains.
+Contract addresses can be found [here](https://docs.enso.build/pages/build/reference/deployments)
 
 ## 08-2025 MixBytes Audit: LayerZero Receiver
 
