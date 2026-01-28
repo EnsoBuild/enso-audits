@@ -1,10 +1,12 @@
 # Enso Protocol Audits
-[Enso](https://www.enso.finance/) is deployed on:  
-- Ethereum  
-- Optimism  
+
+[Enso](https://www.enso.finance/) is deployed on:
+
+- Ethereum
+- Optimism
 - BNB Chain
-- Gnosis Chain  
-- Unichain  
+- Gnosis Chain
+- Unichain
 - Polygon
 - Sonic
 - ZkSync
@@ -24,9 +26,29 @@
 
 Contract addresses can be found [here](https://docs.enso.build/pages/build/reference/deployments)
 
+## 01-2026 Dedaub Audit: Enso CCIP Receiver
+
+- Total Issues: 3 (2 Resolved, 1 Acknowledged)
+- Critical Issues: 0
+- Major Issues: 0
+- Moderate Issues: 0
+- Minor Issues: 3 (2 Resolved, 1 Acknowledged)
+
+See [full report](./reports/dedaub/Dedaub_EnsoCCIPReceiver_v_1_0.pdf) for more details.
+
+## 01-2026 ABDK Audit: Enso Wallet V2
+
+- Total Issues: 13 (3 Fixed)
+- Critical Issues: 0
+- Major Issues: 0
+- Moderate Issues: 2 (2 Resolved)
+- Minor Issues: 11 (1 Resolved, 10 Acknowledged)
+
+See [full report](./reports/abdk/ABDK_Enso_EnsoWalletV2_v_1_0.pdf) for more details.
+
 ## 08-2025 MixBytes Audit: LayerZero Receiver
 
-- Total Issies: 6 (6 Fixed)
+- Total Issues: 6 (6 Fixed)
 - Critical Issues: 0
 - Major Issues: 0
 - Moderate Issues: 1 (1 Fixed)
@@ -50,7 +72,7 @@ See [full report](./reports/mixbytes/Enso_ERC_4337_Integration_Security_Audit_Re
 - Critical Issues: 0
 - Major Issues: 0
 - Moderate Issues: 1 (1 Fixed)
-- Minor Issues: 3  (2 Fixed, 1 Acknowledged)
+- Minor Issues: 3 (2 Fixed, 1 Acknowledged)
 
 See [full report](./reports/abdk/ABDK_Enso_EnsoToken_v_1_0.pdf) for more details.
 
@@ -60,7 +82,7 @@ See [full report](./reports/abdk/ABDK_Enso_EnsoToken_v_1_0.pdf) for more details
 - Critical Issues: 0
 - Major Issues: 0
 - Moderate Issues: 6 (4 Fixed, 2 Acknowledged)
-- Minor Issues: 22  (9 Fixed, 13 Acknowledged)
+- Minor Issues: 22 (9 Fixed, 13 Acknowledged)
 
 See [full report](./reports/abdk/ABDK_Enso_EnsoRouter_v_1_0.pdf) for more details.
 
@@ -82,7 +104,6 @@ See [full report](./reports/mixbytes/Enso_Wallet_Security_Audit_Report.pdf) for 
 - Low Issues: 4 (3 Resolved, 1 Acknowledged)
 
 See [full report](./reports/chainsecurity/ChainSecurity_Enso_Enso-Weiroll_audit.pdf) for more details.
-
 
 ## 12-2022 ABDK Audit: Enso Weiroll Diff
 
@@ -109,9 +130,10 @@ See [full report](./reports/mixbytes/Weiroll_Security_Audit_Report.pdf) for more
 - Critical Issues: 2 (2 Resolved)
 - Major Issues: 2 (2 Resolved)
 - Moderate Issues: 1 (1 Acknowledged)
-- Minor Issues: 16  (6 Resolved, 10 Acknowledged)
+- Minor Issues: 16 (6 Resolved, 10 Acknowledged)
 
 See [full report](./reports/abdk/ABDK_Weiroll_Weiroll_v_1_0.pdf) for more details. In collaboration with [DELV(formerly Element.fi)](https://twitter.com/delv_tech).
 
 # Disclaimer
-Enso is a fully non-custodial platform, and high security principles have been taken during development.  Audits are not a guarantee that a protocol is safe, use at your own risk.
+
+Enso is a fully non-custodial platform, and high security principles have been taken during development. Audits are not a guarantee that a protocol is safe, use at your own risk.
