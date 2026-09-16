@@ -23,6 +23,12 @@
 - Katana
 - Plasma
 - Monad
+- Tempo
+- Sei
+- MegaETH
+- Etherlink
+- Robinhood
+- Arc
 
 Contract addresses can be found [here](https://docs.enso.build/pages/build/reference/deployments)
 
